@@ -51,7 +51,7 @@ function draw() {
 
     fill(255);
     textSize(30);
-    text("Queen of Planning!", width / 2, height / 2);
+    text("Yeah that's my baby the Queen of Planning!", width / 2, height / 2);
 
     fill(0);
     textSize(20);
